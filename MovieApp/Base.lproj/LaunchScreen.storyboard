@@ -17,17 +17,17 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch" translatesAutoresizingMaskIntoConstraints="NO" id="TzL-EV-5fA">
-                                <rect key="frame" x="57" y="298" width="300" height="300"/>
+                                <rect key="frame" x="107" y="348" width="200" height="200"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" name="background"/>
                         <constraints>
                             <constraint firstItem="TzL-EV-5fA" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="FAL-82-QJt"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="TzL-EV-5fA" secondAttribute="trailing" constant="57" id="M28-g2-05N"/>
-                            <constraint firstItem="TzL-EV-5fA" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="57" id="MEK-PU-bYc"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="TzL-EV-5fA" secondAttribute="trailing" constant="107" id="M28-g2-05N"/>
+                            <constraint firstItem="TzL-EV-5fA" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="107" id="MEK-PU-bYc"/>
                             <constraint firstItem="TzL-EV-5fA" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="edY-eP-auw"/>
-                            <constraint firstItem="TzL-EV-5fA" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="254" id="icg-KK-P6h"/>
+                            <constraint firstItem="TzL-EV-5fA" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="304" id="icg-KK-P6h"/>
                         </constraints>
                     </view>
                 </viewController>

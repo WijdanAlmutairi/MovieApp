@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A85D169528B6D2E3009C971D /* CategoriesButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85D169428B6D2E3009C971D /* CategoriesButton.swift */; };
 		A8F38B7B28B2928300104614 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F38B7A28B2928300104614 /* AppDelegate.swift */; };
 		A8F38B7D28B2928300104614 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F38B7C28B2928300104614 /* SceneDelegate.swift */; };
 		A8F38B8228B2928300104614 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8F38B8028B2928300104614 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A85D169428B6D2E3009C971D /* CategoriesButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesButton.swift; sourceTree = "<group>"; };
 		A8F38B7728B2928300104614 /* MovieApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8F38B7A28B2928300104614 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8F38B7C28B2928300104614 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				A8F38B7A28B2928300104614 /* AppDelegate.swift */,
 				A8F38B7C28B2928300104614 /* SceneDelegate.swift */,
+				A85D169428B6D2E3009C971D /* CategoriesButton.swift */,
 				A8F38B8E28B2929D00104614 /* HomeViewController.swift */,
 				A8F38B9028B2932700104614 /* MovieDetailsViewController.swift */,
 				A8F38B8028B2928300104614 /* Main.storyboard */,
@@ -144,6 +147,7 @@
 				A8F38B9128B2932700104614 /* MovieDetailsViewController.swift in Sources */,
 				A8F38B7B28B2928300104614 /* AppDelegate.swift in Sources */,
 				A8F38B7D28B2928300104614 /* SceneDelegate.swift in Sources */,
+				A85D169528B6D2E3009C971D /* CategoriesButton.swift in Sources */,
 				A8F38B8F28B2929D00104614 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
